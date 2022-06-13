@@ -31,5 +31,9 @@
   <comments>This module was developed by JMA Consulting.</comments>
   <civix>
     <namespace>CRM/ActivityTypeACL</namespace>
+    <format>22.05.2</format>
   </civix>
+  <mixins>
+    <mixin>menu-xml@1.0.0</mixin>
+  </mixins>
 </extension>
